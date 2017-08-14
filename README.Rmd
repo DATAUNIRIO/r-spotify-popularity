@@ -19,7 +19,7 @@ Trata-se de uma integração do R com a [API Web do Spotify](https://developer.s
 
 Inicialmente, faço a análise com base neste [endpoint](https://developer.spotify.com/web-api/console/get-current-user-top-artists-and-tracks/) onde podem ser recuperados os artistas ou tracks mais populares.
 
-Para fazer sua conexão, você precisará de uma conta do Spotify e habilitar o modo desenvolvedor (neste caso, para a [API Web](https://developer.spotify.com/web-api/)). Após isso, você precisará criar o "container" de sua aplicação web. É ele que fornecerá suas credenciais.
+Para fazer sua conexão, você precisará de uma conta do Spotify e habilitar o modo desenvolvedor (neste caso, para a [API Web](https://developer.spotify.com/web-api/)). Após isso, criar o "container" de sua aplicação web. É ele que fornecerá suas credenciais.
 
 [[ Em construção ]]
 
