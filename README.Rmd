@@ -32,4 +32,5 @@ Podemos ver o exemplo na imagem abaixo:
 ![Nuvem de palavras](https://github.com/thiagoassantos/r-spotify-popularity/blob/master/wordcloud.png "Wordcloud - Nuvem de palavras.")
 
 ### Referências
-[Rspotify](https://github.com/tiagomendesdantas/Rspotify)
+* [Rspotify](https://github.com/tiagomendesdantas/Rspotify)
+* [Nuvem de palavras](https://www.r-bloggers.com/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know/)
