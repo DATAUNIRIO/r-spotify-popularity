@@ -30,3 +30,6 @@ E a maneira mais divertida de visualizar os top gêneros é coletando os que mai
 
 Vocês podem ver um exemplo na imagem abaixo:
 ![Nuvem de palavras](https://github.com/thiagoassantos/r-spotify-popularity/blob/master/wordcloud.png "Wordcloud - Nuvem de palavras.")
+
+### Referências
+[Rspotify](https://github.com/tiagomendesdantas/Rspotify)
