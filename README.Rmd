@@ -8,6 +8,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 -->
+## My Top Genres in Spotify via R
+
 ### Motivação
 
 Esta é apenas uma pequena aplicação para iniciar meus estudos em Data Science.
