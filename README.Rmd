@@ -1,3 +1,4 @@
+<!--
 ---
 title: "My Top Genres in Spotify via R"
 output: html_document
@@ -6,7 +7,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+-->
 ### Motivação
 
 Esta é apenas uma pequena aplicação para iniciar meus estudos em Data Science.
