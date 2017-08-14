@@ -1,12 +1,3 @@
----
-title: "My Top Genres in Spotify via R"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ### Motivação
 
 Esta é apenas uma pequena aplicação para iniciar meus estudos em Data Science.
@@ -23,5 +14,7 @@ Para fazer sua conexão, você precisará de uma conta do Spotify e habilitar o 
 Faço uma simples análise em cima dos meus top 20 artistas e seus gêneros.
 E a maneira mais divertida de visualizar os top gêneros é coletando os que mais apareciam, representando sua frequência numa nuvem de palavras.
 
+<div class="img-responsive center-block">
 Vocês podem ver um exemplo na imagem abaixo:
 ![Nuvem de palavras](https://github.com/thiagoassantos/r-spotify-popularity/blob/master/wordcloud.png "Wordcloud - Nuvem de palavras.")
+</div>
