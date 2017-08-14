@@ -28,7 +28,7 @@ Para fazer sua conexão, você precisará de uma conta do Spotify e habilitar o 
 Faço uma simples análise em cima dos meus top 20 artistas e seus gêneros.
 E a maneira mais divertida de visualizar os top gêneros é coletar os que mais aparecem, representando sua frequência em uma nuvem de palavras.
 
-Vocês podem ver um exemplo na imagem abaixo:
+Podemos ver o exemplo na imagem abaixo:
 ![Nuvem de palavras](https://github.com/thiagoassantos/r-spotify-popularity/blob/master/wordcloud.png "Wordcloud - Nuvem de palavras.")
 
 ### Referências
